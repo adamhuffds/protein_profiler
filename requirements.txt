@@ -1,0 +1,7 @@
+requests
+rich
+pandas
+rdkit
+matplotlib
+chembl-webresource-client
+biopython
